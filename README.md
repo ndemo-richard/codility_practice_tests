@@ -1,2 +1,2 @@
-# codility_practice_tests
+# codility_tests
 Created with CodeSandbox
